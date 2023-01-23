@@ -1,0 +1,19 @@
+{
+    "name": "elngar/whatsapp",
+    "description": "helper to send whatsapp messages",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "authors": [
+        {
+            "name": "Ahmed AbdElaziz",
+            "email": "a.elngar965@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Elngar\\Whatsapp\\": "src/"
+        }
+    }
+}
